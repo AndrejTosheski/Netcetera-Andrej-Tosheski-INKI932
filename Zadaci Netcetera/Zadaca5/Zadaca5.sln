@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zadaca5", "Zadaca5\Zadaca5.vcxproj", "{477F1774-CEF5-44FF-9B05-836835F39E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477F1774-CEF5-44FF-9B05-836835F39E66}.Debug|x64.ActiveCfg = Debug|x64
+		{477F1774-CEF5-44FF-9B05-836835F39E66}.Debug|x64.Build.0 = Debug|x64
+		{477F1774-CEF5-44FF-9B05-836835F39E66}.Debug|x86.ActiveCfg = Debug|Win32
+		{477F1774-CEF5-44FF-9B05-836835F39E66}.Debug|x86.Build.0 = Debug|Win32
+		{477F1774-CEF5-44FF-9B05-836835F39E66}.Release|x64.ActiveCfg = Release|x64
+		{477F1774-CEF5-44FF-9B05-836835F39E66}.Release|x64.Build.0 = Release|x64
+		{477F1774-CEF5-44FF-9B05-836835F39E66}.Release|x86.ActiveCfg = Release|Win32
+		{477F1774-CEF5-44FF-9B05-836835F39E66}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED16D63D-B0AC-4ED5-B0CE-2C3EF1AEE2B4}
+	EndGlobalSection
+EndGlobal
